@@ -66,7 +66,9 @@ const Hero = ({updateRegister}) => {
                         <p>- 🎨 SCSS — модульные стили</p>
                         <p>- ✉️ EmailJS — отправка кода на gmail</p>
                         <p>- 🌐 Axios — API-запросы</p>
-                        <p>🗄️ Xano — backend and database (no-code API)</p>
+                        <p>- 🗄️ Xano — backend and database (no-code API)</p>
+                        <p>- 💾 GitHub — хостинг и контроль версий проекта</p>
+                        <p>- 🚀 Vercel — деплой и хостинг веб-приложения</p>
                     </div>
                 </div>
             </div>
